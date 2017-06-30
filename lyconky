@@ -1,0 +1,24 @@
+#=====================================================================================
+#                               lyoga
+# Date    : 30/06/2017
+# Author  : R. J. Torres
+# Version : v0.0.1
+# License : Distributed under the terms of MIT license
+#======================================================================================
+
+###Settings###
+background yes
+cpu_avg_samples 1
+default_bar_size 100 8
+default_graph_size 200 100
+diskio_avg_samples 10
+double_buffer yes
+extra_newline no
+if_up_strictness address
+net_avg_samples 1
+no_buffers yes
+temperature_unit celsius
+text_buffer_size 2048
+short_units yes
+update_interval 1
+###End Settings###
