@@ -1,6 +1,9 @@
 ## Colorize the ls output ##
 alias ls='ls --color=auto'
- 
+## Quick ls using l
+alias l='ls --color=auto'
+## Alias for when I write sl insteald of ls
+alias sl='ls'
 ## Use a long listing format ##
 alias ll='ls -la'
  
