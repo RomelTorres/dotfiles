@@ -37,3 +37,6 @@ alias vis='vim "+set si"'
 alias edit='vim'
 
 alias rm='rm -I --preserve-root'
+
+# Add aliases to virtual environments activation
+alias vpython27='source ~/PythonEnv/python27/bin/activate'
